@@ -1,13 +1,13 @@
 # Curso de C#
 
-1. **Apresentação do Curso**  
-2. **Preparação do ambiente**  
-3. **Conceitos básicos do C# .Net Framework**
-4. **Sintaxe básica da linguagem**
-5. **Construção de interfaces visuais e interação**
-6. **Exploração de funcionalidades existentes**
-7. **Utilização de Banco de Dados com C#**
-8. **Conceitos e técnicas avançadas**
+- [ ] **Apresentação do Curso**  
+- [ ] **Preparação do ambiente**  
+- [ ] **Conceitos básicos do C# .Net Framework**
+- [ ] **Sintaxe básica da linguagem**
+- [ ] **Construção de interfaces visuais e interação**
+- [ ] **Exploração de funcionalidades existentes**
+- [ ] **Utilização de Banco de Dados com C#**
+- [ ] **Conceitos e técnicas avançadas**
 
 
 # Referências
