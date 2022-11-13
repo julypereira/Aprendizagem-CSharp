@@ -1,4 +1,4 @@
-# Curso de C#
+# 📔 Curso de C#
 
 1. **Apresentação do Curso**  
 2. **Preparação do ambiente**  
