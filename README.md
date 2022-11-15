@@ -1,7 +1,7 @@
 # Curso de C#
 
-- [ x ] **Apresentação do Curso**  
-- [ x ] **Preparação do ambiente**  
+- [x] **Apresentação do Curso**  
+- [x] **Preparação do ambiente**  
 - [ ] **Conceitos básicos do C# .Net Framework**
 - [ ] **Sintaxe básica da linguagem**
 - [ ] **Construção de interfaces visuais e interação**
