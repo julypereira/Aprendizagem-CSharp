@@ -3,7 +3,7 @@
 - [x] **Apresentação do Curso**  
 - [x] **Preparação do ambiente**  
 - [x] **Conceitos básicos do C# .Net Framework**
-- [ ] **Sintaxe básica da linguagem**
+- [x] **Sintaxe básica da linguagem**
 - [ ] **Construção de interfaces visuais e interação**
 - [ ] **Exploração de funcionalidades existentes**
 - [ ] **Utilização de Banco de Dados com C#**
