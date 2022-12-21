@@ -1,0 +1,7 @@
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Udemy_Projeto_001\bin\Debug\Udemy_Projeto_001.exe.config
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Udemy_Projeto_001\bin\Debug\Udemy_Projeto_001.exe
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Udemy_Projeto_001\bin\Debug\Udemy_Projeto_001.pdb
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Udemy_Projeto_001\obj\Debug\Udemy_Projeto_001.csproj.AssemblyReference.cache
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Udemy_Projeto_001\obj\Debug\Udemy_Projeto_001.csproj.CoreCompileInputs.cache
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Udemy_Projeto_001\obj\Debug\Udemy_Projeto_001.exe
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Udemy_Projeto_001\obj\Debug\Udemy_Projeto_001.pdb
