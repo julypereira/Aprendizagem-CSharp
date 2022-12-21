@@ -6,4 +6,3 @@ Curso: C# Primeiros Passos na Linguagem de Programação C# (Sharp)
 
 # Referências
 * Curso: C# Primeiros Passos na Linguagem de Programação C# (Sharp) - https://www.udemy.com/course/c-sharp-primeiros-passos-na-linguagem-de-programacao-c-sharp/
-*
