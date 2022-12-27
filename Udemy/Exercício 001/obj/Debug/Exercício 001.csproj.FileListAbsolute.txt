@@ -1,0 +1,6 @@
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Exercício 001\bin\Debug\Exercício 001.exe.config
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Exercício 001\bin\Debug\Exercício 001.exe
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Exercício 001\bin\Debug\Exercício 001.pdb
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Exercício 001\obj\Debug\Exercício 001.csproj.CoreCompileInputs.cache
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Exercício 001\obj\Debug\Exercício 001.exe
+C:\_Desenvolvimento\Aprendizagem-CSharp\Udemy\Exercício 001\obj\Debug\Exercício 001.pdb

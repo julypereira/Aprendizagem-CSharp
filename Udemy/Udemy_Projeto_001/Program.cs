@@ -10,6 +10,11 @@ namespace Udemy_Projeto_001
     { 
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá Mundo!");        }
+            Console.WriteLine("Olá Mundo!");
+            Console.Write("Meu primeiro ");
+            Console.Write("programa na ");
+            Console.Write("linguagem C#.");
+
+        }
     }
 }
