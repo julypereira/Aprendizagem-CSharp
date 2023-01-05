@@ -14,8 +14,7 @@ namespace Projeto_006
         {
             //declaração das variáveis
             string nome;
-            string anoNascimento;
-            int anoDoNascimento;
+            int anoNascimento;
             int idade;
 
             //Entrada de dados
@@ -23,20 +22,12 @@ namespace Projeto_006
             nome = Console.ReadLine();
 
             Console.Write("Digite o ano de nascimento: ");
-            anoNascimento = Console.ReadLine();
+            anoNascimento = int.Parse(Console.ReadLine());
 
-
-            //Processamento de dados - Conversão de tipos de dados diferentes usando o Parse
-
-            //anoDoNascimento = int.Parse(anoNascimento);
-            //idade = 2022 - anoDoNascimento;
 
             //Processamento de dados - Conversão de tipos de dados diferentes usando o Convert
-            anoDoNascimento = Convert.ToInt32(anoNascimento);         
-            idade = 2022 - anoDoNascimento;
-
-
-
+            
+            idade = 2022 - anoNascimento;
 
 
             //Saída de Dados
