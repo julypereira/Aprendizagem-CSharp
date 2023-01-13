@@ -1,0 +1,7 @@
+C:\Users\julya\source\repos\Exercício 003\bin\Debug\Exercício 003.exe.config
+C:\Users\julya\source\repos\Exercício 003\bin\Debug\Exercício 003.exe
+C:\Users\julya\source\repos\Exercício 003\bin\Debug\Exercício 003.pdb
+C:\Users\julya\source\repos\Exercício 003\obj\Debug\Exercício 003.csproj.AssemblyReference.cache
+C:\Users\julya\source\repos\Exercício 003\obj\Debug\Exercício 003.csproj.CoreCompileInputs.cache
+C:\Users\julya\source\repos\Exercício 003\obj\Debug\Exercício 003.exe
+C:\Users\julya\source\repos\Exercício 003\obj\Debug\Exercício 003.pdb
