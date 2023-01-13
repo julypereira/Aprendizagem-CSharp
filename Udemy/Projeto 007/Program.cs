@@ -35,7 +35,7 @@ using System.Threading.Tasks;
 
             //Saída
             Console.WriteLine("O resultado da soma:" + soma);
-            Console.WriteLine("{0}+{1}+{2}",valorA,valorB,soma);
+            Console.WriteLine("{0}+{1}={2}",valorA,valorB,soma);
 
 
 
