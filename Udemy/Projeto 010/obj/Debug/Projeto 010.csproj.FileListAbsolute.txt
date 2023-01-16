@@ -1,0 +1,7 @@
+C:\Users\julya\source\repos\Projeto 010\bin\Debug\Projeto 010.exe.config
+C:\Users\julya\source\repos\Projeto 010\bin\Debug\Projeto 010.exe
+C:\Users\julya\source\repos\Projeto 010\bin\Debug\Projeto 010.pdb
+C:\Users\julya\source\repos\Projeto 010\obj\Debug\Projeto 010.csproj.AssemblyReference.cache
+C:\Users\julya\source\repos\Projeto 010\obj\Debug\Projeto 010.csproj.CoreCompileInputs.cache
+C:\Users\julya\source\repos\Projeto 010\obj\Debug\Projeto 010.exe
+C:\Users\julya\source\repos\Projeto 010\obj\Debug\Projeto 010.pdb
